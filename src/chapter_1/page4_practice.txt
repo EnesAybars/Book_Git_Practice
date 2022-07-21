@@ -1,5 +1,9 @@
 Hi
-this is a practice page
-I am trying to get used to git and github.
-This is my first practice outside the lesson
-Lets see what happens
+This is a practice page.
+I am trying to get used to Git and GitHub.
+This is my first practice outside the lesson.
+Let's see what happens.
+------------------------------
+This is the editing the file.
+Everything seems good so far.
+I think I got it the part so far
