@@ -1,0 +1,5 @@
+Hi
+this is a practice page
+I am trying to get used to git and github.
+This is my first practice outside the lesson
+Lets see what happens
