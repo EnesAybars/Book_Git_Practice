@@ -2,5 +2,8 @@ Page 1
 
 This is the first day and the first lesson
 of the Git.
-I am so exciting to will be learning new features
-Hope it goes well
+----------
+I am so exciting to will be learning new features,
+Hope it goes well.
+----------
+This goes extremely slow I can't stand...
